@@ -3,14 +3,13 @@
 A new Flutter project.
 
 ## Getting Started
+"Flutter Pub Get" to install all dependencies
 
-This project is a starting point for a Flutter application.
+### The Project Structure
+The screens folder contains the Edit page. 
+The Widget folder contains the main screen
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
+Simple_icons was used in this project. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
